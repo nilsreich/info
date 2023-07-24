@@ -1,0 +1,16 @@
+{
+  "index": {
+    "title": "Einleitung",
+    "theme": {
+      "layout": "full"
+    }
+  },
+    "dates":"Termine",
+    "verlauf": "Verlauf",
+    "--": {
+      "type": "separator",
+      "title": "Anleitungen"
+    },
+    "word": "Textverarbeitung",
+    "about": "About"
+  }
